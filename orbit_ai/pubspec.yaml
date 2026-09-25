@@ -1,0 +1,18 @@
+name: orbit_ai
+description: A lightweight, LLM model-agnostic orchestrator for Flutter and Dart supporting real-time streaming and local function calling.
+version: 1.0.0
+repository: https://github.com/LucioD3v/Orbit_AI 
+homepage: https://github.com/LucioD3v/Orbit_AI    
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
